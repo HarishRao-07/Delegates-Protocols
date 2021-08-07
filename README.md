@@ -1,5 +1,9 @@
 # Delegates-Protocols
 
+In this project, Data passing between two different view controllers is done.
+In homepage what data is typed in textfield that data will pass to secondviewcontrollers and showed in label.
+like that, what data we typed in second viewcontroller text field that data will show in home page(viewcontroller).
+
 
 <p align = "center">
 
